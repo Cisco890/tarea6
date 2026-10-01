@@ -1,0 +1,8 @@
+data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Checkpoints VGG superan el límite de GitHub (100 MB)
+outputs_lab6/VGG-*.pt
+outputs_lab6/CNN-B_best.pt
+outputs_lab6/CNN-C_best.pt

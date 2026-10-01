@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "vgg_size": 112,
+  "device_reported": "NVIDIA Tesla T4 (CUDA) \u2014 entorno de entrenamiento",
+  "elapsed_s": 148.44098377227783,
+  "best": {
+    "CNN": "CNN-A",
+    "VGG-FE": "VGG-FE-B",
+    "VGG-FT": "VGG-FT-B"
+  }
+}
