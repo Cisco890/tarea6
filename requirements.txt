@@ -6,7 +6,4 @@ matplotlib>=3.7
 numpy>=1.24
 fvcore
 thop
-tabulate
-nbformat
-reportlab
 Pillow
